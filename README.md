@@ -90,11 +90,12 @@ It connects administrators, teachers, students, and parents through role-based d
 ---
 
 ## 📸 Screenshots
+---
 
-```
-![Dashboard](assets/dashboard.png)
-![Students](assets/students.png)
-```
+<p align="center">
+  <img src="assets/header.png" width="100%"/>
+</p>
+---
 
 ---
 
