@@ -90,29 +90,10 @@ It connects administrators, teachers, students, and parents through role-based d
 ---
 
 ## 📸 Screenshots
-> (حط صور من المشروع هنا)
 
 ```
 ![Dashboard](assets/dashboard.png)
 ![Students](assets/students.png)
-```
-
----
-
-## 🎥 Demo Video
-> (ارفع الفيديو على YouTube وحط اللينك هنا)
-
-```
-https://your-demo-link.com
-```
-
----
-
-## 🌐 Live Demo
-> (لو رافع المشروع على استضافة)
-
-```
-https://ta3limx-demo.com
 ```
 
 ---
