@@ -49,6 +49,9 @@
   <img src="assets/dashboard.png" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="assets/app.png" width="100%"/>
+</p>
 ---
 
 ## 🚀 Getting Started
