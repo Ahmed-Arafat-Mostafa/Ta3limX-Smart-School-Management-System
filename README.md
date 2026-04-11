@@ -52,7 +52,7 @@
 <p align="center">
   <img src="assets/app.png" width="100%"/>
 </p>
----
+
 
 ## 🚀 Getting Started
 
