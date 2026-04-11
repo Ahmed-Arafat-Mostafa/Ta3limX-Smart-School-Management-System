@@ -42,9 +42,12 @@
 
 
 <p align="center">
-  <img src="assets/dashboard.png" width="100%"/>
+  <img src="assets/students.png" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="assets/dashboard.png" width="100%"/>
+</p>
 
 ---
 
@@ -77,8 +80,11 @@ This project uses GitHub Actions for automated testing on every push.
 
 ---
 
-## 👨‍💻 Author
-Ahmed Arafat  
+## 👨‍💻 Vision
+ <p align="center">
+  <img src="assets/header.png" width="100%"/>
+</p>
+
 
 ---
 
